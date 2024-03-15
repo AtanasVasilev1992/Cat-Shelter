@@ -1,2 +1,2 @@
-# Cat-Shelter
+# Cat-Shelters
 SoftUni exam for node.js
